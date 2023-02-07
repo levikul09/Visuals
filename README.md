@@ -5,4 +5,4 @@ Recreation / Modification of [this](https://images.squarespace-cdn.com/content/v
 
 File: [Smokers.ipynb](https://github.com/levikul09/Visuals/blob/main/Smokers.ipynb)
 
-![example image](https://github.com/levikul09/Visuals/blob/main/Smokers.png?raw=True)
+![Smokers image](https://github.com/levikul09/Visuals/blob/main/Smokersf.png?raw=True)
