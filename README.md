@@ -7,3 +7,9 @@ Recreation / Modification of [this](https://images.squarespace-cdn.com/content/v
 File: [Smokers2020.ipynb](https://github.com/levikul09/Visuals/blob/main/Smokers2020.ipynb)
 
 ![example image](https://github.com/levikul09/Visuals/blob/main/Smokers2020.png?raw=True)
+
+2️⃣ Spyder plot
+
+File: [Spyder plot.ipynb](https://github.com/levikul09/Visuals/blob/main/Spyder%20plot.ipynb)
+
+![example image](https://github.com/levikul09/Visuals/blob/main/Spyder%20plot.png?raw=True)
