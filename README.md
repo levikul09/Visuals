@@ -8,6 +8,7 @@ File: [revenuetiers.ipynb](https://github.com/levikul09/Visuals/blob/main/revenu
 ![example image](https://github.com/levikul09/Visuals/blob/main/revenuetiers.png?raw=True)
 
 2️⃣ Dumbbell plot
+
 Recreation / Modification of [this](https://images.squarespace-cdn.com/content/v1/55b6a6dce4b089e11621d3ed/1607103175648-H00OJFTYQH0TWACISEF7/Group+comparison.png?format=1000w) chart.
 
 File: [Smokers2020.ipynb](https://github.com/levikul09/Visuals/blob/main/Smokers2020.ipynb)
