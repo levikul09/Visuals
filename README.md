@@ -3,7 +3,7 @@
 
 1️⃣ Stacked horizontal barchart
 
-File: [revenuetiers.ipynb](https://github.com/levikul09/Visuals/blob/main/connected%20horizontal%20bar.ipynb)
+File: [connected horizontal bar.ipynb](https://github.com/levikul09/Visuals/blob/main/connected%20horizontal%20bar.ipynb)
 
 ![example image](https://github.com/levikul09/Visuals/blob/main/connected%20horizontal%20bar.png?raw=True)
 
@@ -12,7 +12,7 @@ File: [revenuetiers.ipynb](https://github.com/levikul09/Visuals/blob/main/connec
 
 File: [revenuetiers.ipynb](https://github.com/levikul09/Visuals/blob/main/revenuetiers.ipynb)
 
-![example image](https://github.com/levikul09/Visuals/blob/main/connected%20horizontal%20bar.png?raw=True)
+![example image](https://github.com/levikul09/Visuals/blob/main/revenuetiers.png?raw=True)
 
 3️⃣ Dumbbell plot
 
