@@ -5,7 +5,7 @@
 
 File: [revenuetiers.ipynb](https://github.com/levikul09/Visuals/blob/main/connected%20horizontal%20bar.ipynb)
 
-![example image]()
+![example image](https://github.com/levikul09/Visuals/blob/main/connected%20horizontal%20bar.png?raw=True)
 
 
 2️⃣ Slope chart
